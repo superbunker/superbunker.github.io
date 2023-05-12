@@ -4,3 +4,5 @@ description: [A short description of your site's purpose]
 
 theme: minima
 
+minima:
+  skin: dark
