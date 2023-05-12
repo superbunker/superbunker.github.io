@@ -1,7 +1,10 @@
 
 title: [The title of your site]
 description: [A short description of your site's purpose]
-
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
+  
 theme: minima
 
 minima:
