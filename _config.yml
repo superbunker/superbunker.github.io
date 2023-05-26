@@ -12,12 +12,13 @@ description: >
 
 # Build settings
 
-theme: minima
+remote_theme: minima
 
-  
+# theme: minima
+
 # Theme-specific settings
 
-minima:
+# minima:
 
   # skin: dark
   
