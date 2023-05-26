@@ -21,9 +21,9 @@ remote_theme: jekyll/minima
 
 # Theme-specific settings
 
-# minima:
+minima:
 
-  # skin: dark
+  skin: dark
   
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
